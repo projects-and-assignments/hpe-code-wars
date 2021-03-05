@@ -1,0 +1,12 @@
+11
+Peralta 1
+Santiago 2
+Diaz 0
+Lonely 9
+Jeffords 3
+Boyle 7
+Linetti 7
+Holt 0
+Hitchcock 87
+Scully 87
+Lonely 123

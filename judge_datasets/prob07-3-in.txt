@@ -1,0 +1,14 @@
+13
+Downey 0
+Evans 5
+Ruffalo 6
+Lonely 444
+Hemsworth 74
+Johansson 0
+Renner 6
+Hiddleston 32
+Gregg 31
+Lonely 555
+Smulders 0
+Jackson 30
+Paltrow 30

@@ -1,0 +1,13 @@
+12
+Kirk 0
+Spock 0
+Lonely 82
+Picard 0
+Riker 9
+Lonely 12
+Sisko 99
+Nerys 99
+Lonely 6
+Janeway 3
+Tuvok 0
+Lonely 7
